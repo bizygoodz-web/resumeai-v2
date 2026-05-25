@@ -1,6 +1,5 @@
-streamlit
+playwright
 groq
 httpx
 beautifulsoup4
 pdfplumber
-python-docx
